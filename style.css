@@ -445,6 +445,10 @@ ul {
  object-fit: contain;
 }
 
+.well {
+ object-position: -50px 50%;
+}
+
 .two-d {
  margin-top: 5rem;
 }
