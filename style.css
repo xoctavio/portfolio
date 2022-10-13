@@ -352,6 +352,17 @@ ul {
 }
 
 /* media */
+@media only screen and (max-width: 600px) {
+ .me {
+  flex-direction: column;
+ }
+}
+@media (min-width: 601px) {
+ .xavier {
+  margin-top: 25vh;
+ }
+}
+
 @media (max-width: 768px) {
  .hamburger {
   display: block;
@@ -380,7 +391,13 @@ ul {
 }
 
 /* about */
+
 .me {
+ /* debug */
+ /* border: 2px solid var(--grey-100); */
+
+ max-width: 800px;
+ margin: auto;
  display: flex;
  justify-content: center;
  align-items: center;
@@ -390,19 +407,17 @@ ul {
 .circular-image {
  flex: 1;
  max-width: 300px;
- max-height: 300px;
+ max-height: auto;
  border-radius: 50%;
  margin-top: 25vh;
 }
 
 .xavier {
- max-width: 300px;
- max-height: auto;
  flex-direction: column;
  display: flex;
  justify-content: center;
  align-items: center;
- margin-top: 25vh;
+ /* margin-top: 25vh; */
 }
 
 .xavier h1 {
