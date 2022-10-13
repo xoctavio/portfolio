@@ -405,7 +405,7 @@ ul {
 }
 
 .circular-image {
- flex: 1;
+ /* flex: 1; */
  max-width: 300px;
  max-height: 300px;
  border-radius: 50%;
