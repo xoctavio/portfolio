@@ -280,7 +280,7 @@ ul {
 
 .container h1 {
  display: inline-block;
- padding-top: 10%;
+ /* padding-top: 10%; */
 }
 
 /* JS below */
@@ -384,34 +384,40 @@ ul {
  display: flex;
  justify-content: center;
  align-items: center;
+ gap: 1rem;
 }
 
 .circular-image {
- max-width: 400px;
- max-height: 400px;
+ flex: 1;
+ max-width: 300px;
+ max-height: 300px;
  border-radius: 50%;
  margin-top: 25vh;
- margin-left: auto;
 }
 
-/* .xavier {
- flex: 1;
-} */
+.xavier {
+ max-width: 300px;
+ max-height: auto;
+ flex-direction: column;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 25vh;
+}
 
 .xavier h1 {
+ flex: 1;
  font-size: 1.953rem;
- margin: 25vh 400px 0 auto;
- padding-left: 50px;
+ text-transform: none;
 }
 
 .xavier div {
- margin: 0 390px 0 auto;
- padding-left: 50px;
+ margin-top: 1vh;
+ margin-bottom: 1vh;
 }
 
 .xavier p {
- /* margin: 10px 300px 0 auto; */
- padding-left: 42px;
+ flex: 1;
 }
 
 /* art */
