@@ -1,5 +1,11 @@
 # portfolio
 
-3D images were made using blender
+- portfolio website mockup showcasing HTML, CSS, and JavaScript knowledge
 
-2D images were made using photoshop
+- 3D images were made using blender
+
+- 2D images were made using photoshop
+
+deployed site:
+
+https://xoctavio.github.io/portfolio/
