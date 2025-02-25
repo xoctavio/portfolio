@@ -266,16 +266,21 @@ ul {
 .container {
  width: 100vw;
  min-height: 600px;
+ 
  /* background: antiquewhite; */
  display: flex;
  justify-content: center;
  align-items: center;
  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
-  url(./images/trees.jpg) center/auto no-repeat fixed;
+  url(./images/vending-machine.jpg) center/cover no-repeat fixed;
  background-position: center;
- background-size: auto;
+ background-size: cover;
  background-attachment: fixed;
  margin-bottom: 5rem;
+ 
+ /* Blur effect */
+ filter: blur(8px);
+ -webkit-filter: blur(8px);
 }
 
 .container h1 {
