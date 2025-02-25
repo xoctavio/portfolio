@@ -2,9 +2,7 @@
 
 - portfolio website mockup using HTML, CSS, and JavaScript
 
-- 3D images made with blender
-
-- 2D images made with photoshop
+- 3D images and animations made with blender
 
 deployed site:
 
