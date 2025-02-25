@@ -1,10 +1,10 @@
 # portfolio
 
-- portfolio website mockup showcasing HTML, CSS, and JavaScript knowledge
+- portfolio website mockup using HTML, CSS, and JavaScript
 
-- 3D images were made using blender
+- 3D images made with blender
 
-- 2D images were made using photoshop
+- 2D images made with photoshop
 
 deployed site:
 
