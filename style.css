@@ -461,8 +461,8 @@ ul {
 }
 
 .photo-grid-item vid{
- width: 1080px;
- height: 1920px;
+ width: 540px;
+ height: 960px;
  object-fit: contain;
 }
 
