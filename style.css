@@ -278,9 +278,9 @@ ul {
  background-attachment: fixed;
  margin-bottom: 5rem;
  
- /* Blur effect */
+ /* Blur effect
  filter: blur(8px);
- -webkit-filter: blur(8px);
+ -webkit-filter: blur(8px); */
 }
 
 .container h1 {
