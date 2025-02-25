@@ -460,6 +460,12 @@ ul {
  object-fit: contain;
 }
 
+.photo-grid-item vid{
+ width: 1080px;
+ height: 1920px;
+ object-fit: contain;
+}
+
 .well {
  object-position: -50px 50%;
 }
