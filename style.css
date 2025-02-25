@@ -273,7 +273,7 @@ ul {
  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
   url(./images/trees.jpg) no-repeat fixed;
  background-position: center;
- background-size: cover;
+ background-size: auto;
  background-attachment: fixed;
  margin-bottom: 5rem;
 }
